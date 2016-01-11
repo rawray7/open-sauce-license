@@ -1,0 +1,50 @@
+The Open Sauce License, Version 0.0.1
+
+----
+
+Goal:
+
+An open license that fosters a collaborative innovation environment for physical science and engineering, by stewarding a shared intellectual property commons.
+
+----
+
+Summary:
+
+The intent of the Open Sauce License is to seed and sustain an ecosytem of permissionless innovation, in which inventors can profit from their contributions while standing on the shoulders of an exponentially-growing giant. Intellectual property licensed under the Open Sauce License can be used and modified, at no cost to the licensee. Any new intellectual property developed by the licensee that builds off of the licensed material must be non-exclusively licensed back to all licensees under the Open Sauce License. Through this feedback mechanism, the shared pool of intellectual property grows. Intellectual property owners may additionally assign other non-exclusive licenses on their own terms. Licensees are free to incorporate the intellectual property into commercial projects, subject to the terms of the license and code of conduct. 
+
+----
+
+Principles:
+
+- Maximize reproducibility.
+- Encourage attribution.
+- Improve understanding.
+- Preserve optionality.
+- Prioritize safety.
+
+----
+
+Terms (in plain English):
+
+- The ingredients of the sauce must be publicly disclosed.
+	- Includes all ingredients, components, and additives knowingly used in the recipe.
+	- Includes any products, biproducts and compositions knowingly formed during preparation.
+	- Includes a best effort to document potential hazards and safety precautions.
+	- Includes a best effort to document potential impurities and decomposition products.
+
+- A representative recipe must be publicly disclosed.
+	- Includes a best effort to share process/preparation/synthesis/fabrication details relevant to reproducing the sauce. 
+
+- Attribution must be made when a sauce or recipe is reproduced or distributed. 
+	- Publications, patents, presentations, programs, and products that use the licensed material must attribute the inventors.
+
+- Any intellectual property derived from recipes, sauces, content, and intellectual property licensed under the OpenSauce license shall be immediately, irrevocably, non-exclusively licensed back to the pool of licensees at no cost. 
+	- Includes a notification requirement when patent applications are published online.
+
+- License can be terminated at any time if:
+	- Licensee violates the terms of the license, or behaves outside code-of-conduct
+	- Licensee litigates against licensor or licensee with regard to IP covered by license
+
+----
+
+
